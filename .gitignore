@@ -1,0 +1,8 @@
+# Arquivos brutos e temporários não necessários para hospedagem na nuvem
+SIMCAR_D_RESERVATORIO_ARTIFICIAL.csv
+SIMCAR_D_RESERVATORIO_ARTIFICIAL.zip
+SIMCAR_D_RESERVATORIO_ARTIFICIAL/
+SIMCAR_BARRAGENS_DIAGNOSTICO_COMPLETO.csv
+cloudflared.exe
+__pycache__/
+*.pyc
